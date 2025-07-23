@@ -1,2 +1,2 @@
-# Gworldsoft-Data-Science-Project
-Project1 - project 10
+Gworldsoft Datascience projects 
+WorldQuant University Financial Engineering Projects
